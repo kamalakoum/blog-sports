@@ -1,0 +1,54 @@
+header {
+    background-color: rgb(92, 91, 91);
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
+
+.title {
+    margin: 20px;
+    clear: both; /* Add this to clear the floats */
+}
+
+.content-parag {
+    font-size: large;
+    width: 40%;
+    margin: 30px;
+}
+.image{
+    width: 60%;
+    height: 350px;
+    margin: 40px;
+}
+
+.image-subject {
+    float: right;
+}
+
+.image-start{
+    float:left;
+}
+
+.image-trans{
+    float: right;
+}
+
+.image-swim{
+    float: left;
+}
+
+li{
+    margin-left: 40px;
+    font-size: large;
+}
+
+ul{
+    width: 50%;
+}
+
+footer{
+    background-color: rgb(92, 91, 91);
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
